@@ -1,5 +1,6 @@
 package Unit1.Salaries;
 
+
 interface Employee {
 
     double calculateSalary();

@@ -1,5 +1,4 @@
 package Unit3.While;
-
 import java.util.Random;
 
 class sumRace {

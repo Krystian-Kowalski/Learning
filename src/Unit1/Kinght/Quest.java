@@ -1,5 +1,6 @@
 package Unit1.Kinght;
 
+
 interface Quest {
     void getQuest();
     void findComrades();

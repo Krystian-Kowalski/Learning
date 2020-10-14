@@ -1,5 +1,6 @@
 package Unit1.ATM;
 
+
 interface ATM {
     void deposit(int cashIn);
     void withdrawal(int cashOut);

@@ -1,5 +1,4 @@
 package Unit3.CompareArrays;
-
 import java.util.*;
 
 class AChainsGenerator {
@@ -20,19 +19,19 @@ class AChainsGenerator {
 
 }
 
-class AChainsSorter {
-    ArrayList<AChainsGenerator> sort(ArrayList<AChainsGenerator> evenSorted) {
-        ArrayList<AChainsSorter> sorters = new ArrayList<>();
-        public void evenGeneratedStrings() {
-            int count = 0;
-            for () {
-                if (Character.isLetter(strings))
-            }
-        }
-
-    }
-
-}
+//class AChainsSorter {
+//    ArrayList<AChainsGenerator> sort(ArrayList<AChainsGenerator> evenSorted) {
+//        ArrayList<AChainsSorter> sorters = new ArrayList<>();
+//        public void evenGeneratedStrings() {
+//            int count = 0;
+//            for () {
+//                if (Character.isLetter(strings))
+//            }
+//        }
+//
+//    }
+//
+//}
 
 class SnakeLetters {
     static void main(String[] args) {

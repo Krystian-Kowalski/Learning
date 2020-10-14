@@ -1,7 +1,6 @@
 package Unit2.HashMap;
 
 /* package whatever; // don't place package name! */
-
 import java.util.*;
 import java.lang.*;
 

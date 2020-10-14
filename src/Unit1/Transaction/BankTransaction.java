@@ -1,5 +1,6 @@
 package Unit1.Transaction;
 
+
 abstract class BankTransaction {
     protected int accountBalance;
     protected int withdrawalAmount;
